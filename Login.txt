@@ -1,0 +1,16 @@
+*Login for Manager
+
+USERNAME =  Igor
+PASSWORD= 12543IgorPS
+
+USERNAME =  Stav
+PASSWORD= 12354StavPs
+
+USERNAME =  Davide
+PASSWORD= 123458DavidePs
+
+
+===============================
+*Login for workers
+USERNAME=@WorkerIntel770
+PASSWORD=@WorkerIntel770
